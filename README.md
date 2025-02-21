@@ -1,14 +1,21 @@
-Hi! Welcome to my GitHUB profile.
+Hi! Welcome to my GitHub profile 👋
+I'm Samuel Stuckey, but you can call me Sam!
 
-My name is Samuel Stuckey, but I go by Sam.
+I'm a CS sophomore at UIC with a budding interest for systems and cybersecurity. Lately, I've been jumping into these fields through coursework, studying for certificates like the ComptiaA+ exam,  and competitions like the Department of Energy's CyberForce 2024.
 
-I am currently a CS Sophomore at UIC who spends most of their time playing rouge-lites or reading math books, and as of late I have developed a interest with the feilds of systems and cybersecurity based on my recent classes in the subject matter.
+When I'm not coding, you'll probably find me playing roguelikes, listening to Japanese Jazz, reading random math/Computer Science articles, or experimenting with new tech. I'm always on the lookout for CTFs, hackathons, and working on a project from my massive list of projects that I hope to have the time to complete one day.
 
-Recently, I was aply my skills in these areas at the Department of Energy's Cyberforce 2024, and I am excited to explore more ctfs/hackathons.
+Currently, I assist as my ACM local chappter's Communications head--scheduling and leading workshops and the like, I work part time at walmart as a sales representative, I do some gig work with my Barbershop chorus but its more of a hobby, and I will be an intern for Southern Company This Summer!
 
-Feel free to check out my projects—I'm always open to feedback and new ideas! Let's connect and build something amazing!
+Feel free to check out my projects—I'm always open to criticism, positive feedback, and ideas! Let's connect and build something amazing.
 
-Please reach out to me if you have any questions: 
-Sbrycestuckey@outlook.com
+Email: sbrycestuckey@outlook.com
 
-Specialties: C++, C, Unity.C#, p5JS
+
+🛠️ Tech Stack
+Languages: C++, C, C#, Python, JavaScript (p5.js), HTML & CSS
+Tools & Frameworks: Unity, VS Code, WSL, LaTeX, Ansible
+
+Let’s create something awesome together! 🚀
+
+
