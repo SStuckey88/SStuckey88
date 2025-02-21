@@ -12,8 +12,10 @@ Feel free to check out my projects—I'm always open to criticism, positive feed
 Email: sbrycestuckey@outlook.com
 
 
-🛠️ Tech Stack\n
-Languages: C++, C, C#, Python, JavaScript (p5.js), HTML & CSS \n
+🛠️ Tech Stack
+
+Languages: C++, C, C#, Python, JavaScript (p5.js), HTML & CSS
+
 Tools & Frameworks: Unity, VS Code, WSL, LaTeX, Ansible
 
 Let’s create something awesome together! 🚀
