@@ -5,7 +5,7 @@ I'm a CS sophomore at UIC with a budding interest for systems and cybersecurity.
 
 When I'm not coding, you'll probably find me playing roguelikes, listening to Japanese Jazz, reading random math/Computer Science articles, or experimenting with new tech. I'm always on the lookout for CTFs, hackathons, and working on a project from my massive list of projects that I hope to have the time to complete one day.
 
-Currently, I assist as my ACM local chappter's Communications head--scheduling and leading workshops and the like, I work part time at walmart as a sales representative, I do some gig work with my Barbershop chorus but its more of a hobby, and I will be an intern for Southern Company This Summer!
+Currently, I assist as my ACM local chapter's Communications head--scheduling and leading workshops and the like, I work part time at walmart as a sales representative, I do some gig work with my Barbershop chorus but its more of a hobby, and I will be an intern for Southern Company This Summer!
 
 Feel free to check out my projects—I'm always open to criticism, positive feedback, and ideas! Let's connect and build something amazing.
 
